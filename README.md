@@ -24,7 +24,7 @@ A modern desktop application built with Python and CustomTkinter to automate QR 
 
 ### 🚀 Quick Start
 1. Clone & enter repository:
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/marcospaulogomez/QR_Genarator.exe/blob/main/app.py
    cd SEU_REPOSITORIO
 
 2. Setup virtual environment:
@@ -57,7 +57,7 @@ Aplicação desktop moderna desenvolvida em Python e CustomTkinter para automati
 
 ### 🚀 Como Executar
 1. Clonar e acessar a pasta:
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/marcospaulogomez/QR_Genarator.exe/blob/main/app.py
    cd SEU_REPOSITORIO
 
 2. Criar e ativar o ambiente virtual:
